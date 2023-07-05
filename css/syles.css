@@ -161,7 +161,7 @@ h3 {
 
 /*PORTADA*/
 .hero {
-  background-image: url(../img/portada1.webp);
+  background-image: url(../img/portada.webp);
   background-repeat: no-repeat; /*con esta propiedad la imagen no se repite por defaul*/
   background-size: cover; /*la imagen cubre toda la pantalla*/
   height: 700px;
